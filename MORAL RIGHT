@@ -1,1 +1,12 @@
-# MORAL-RIGHT-VVA 
+# MORAL-RIGHT-VVA MORAL-RIGHT-VVA/
+├── contracts/
+│   ├── VVAStandard.sol         (Стандарт токена VVA)
+│   ├── MoralRightsRegistry.sol (Реестр моральных прав)
+│   ├── DamageAssessment.sol    (Оценка морального ущерба)
+│   └── ValueDistribution.sol   (Распределение возмещения)
+├── docs/
+│   ├── PHILOSOPHY.md           (10 заповедей как основа)
+│   ├── STANDARD.md             (Описание VVA-стандарта)
+│   └── ECONOMICS.md            (Экономическая модель)
+├── README.md
+└── .gitignore
